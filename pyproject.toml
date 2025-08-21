@@ -1,7 +1,7 @@
 [project]
 name = "aibio-demo"
 version = "0.1.0"
-description = "demo notebooks for blog aith AI BIO"
+description = "demo notebooks for blog with AI BIO"
 readme = "README.md"
 requires-python = ">=3.13.2"
 dependencies = [
