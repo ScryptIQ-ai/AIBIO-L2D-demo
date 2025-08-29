@@ -7,7 +7,7 @@ The code for this project is in three notebooks:
 2. [Classical ML](2_classical_ml.ipynb)
 3. [Deep learning](3_neural_nets.ipynb)
 
-We'll be publishing accompanying blog posts on the AIBIO website. Check the first installment here, or read on to for setup instructions. 
+We'll be publishing accompanying blog posts on the AIBIO website. Read the first installment [here](https://aibio.ac.uk/blog/python-project-walkthrough-with-l2d-1/), or read on to for setup instructions. 
 
 ## Setup
 
